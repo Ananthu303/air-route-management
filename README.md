@@ -50,7 +50,7 @@ This project uses **Django, Bootstrap, and Python** for a clean, responsive, and
 
 ```bash
 git clone https://github.com/Ananthu303/air-route-management.git
-cd airport_project
+cd air-route-management"
 ```
 ### 2. Create and Activate a Virtual Environment
 
